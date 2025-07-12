@@ -17,8 +17,8 @@
 
 Download commands 
 
-git clone 
+git clone https://github.com/ULuvlemonaidd/MyNetL4
 
-cd 
+cd MyNetL4
 
-python
+python myNetl4.py
