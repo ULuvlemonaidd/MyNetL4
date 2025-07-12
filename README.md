@@ -11,7 +11,8 @@
 
 - Sends raw TCP connections with HTTP GET requests
 - Minimal dependencies
-- Customizable target IP, port, request count, and attack duration 
+- Customizable target IP, port, request count, and attack duration
+- minimum attack time (10sec) Maximum attack time (9500sec)
 
 ---
 
