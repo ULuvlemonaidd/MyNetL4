@@ -15,10 +15,25 @@
 
 ---
 
-Download commands 
+Download commands (termux)
 
 git clone https://github.com/ULuvlemonaidd/MyNetL4
 
 cd MyNetL4
 
 python myNetl4.py
+
+--- 
+Download commands (ISH Shell)
+
+apk add git 
+
+apk add python3
+
+apk add py3-pip
+
+git clone https://github.com/ULuvlemonaidd/MyNetL4
+
+cd MyNetL4
+
+python3 myNetl4.py
